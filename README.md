@@ -1,7 +1,8 @@
 # 🧠 Brain Cancer Detection from MRI Scans  
 *A Machine Learning and Deep Learning Approach for Tumor Classification*  
 
-<img src="https://github.com/user-attachments/assets/c3e08a19-09df-45ef-bfce-cb7f1e91df2a" alt="Brain Tumor Classification" width="500">
+<img src="https://github.com/user-attachments/assets/efe347fa-6bec-45e0-9ed2-bfb03e310cd6" alt="Brain Tumor Classification" width="500">
+
 
 
 ## **📌 Overview**  
